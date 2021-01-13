@@ -134,3 +134,8 @@ and
     year    = {2020},
 }
 ```
+
+## Tools
+* https://lvdmaaten.github.io/tsne/
+* https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
+* https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b
